@@ -4,7 +4,7 @@
 CPELX230-330 introduces Agentic Software Engineering: building software with AI agents that perceive, reason, and act toward goals. The course covers software engineering foundations (Sommerville), Agile and Scrum, version control with Git, intelligent agents (Russell and Norvig), and responsible AI using the NIST AI Risk Management Framework.
 
 ## About Me
-I am [Your Full Name], a Computer Engineering student at National University. I am interested in [your interests, e.g., embedded systems, networking, AI-assisted development]. I am taking this course to learn how modern software teams build AI-powered systems safely and collaboratively.
+I am Nathan Escaño, a Computer Engineering student at National University. I am interested in becoming a Web Developer. I am taking this course to learn how modern software teams build AI-powered systems safely and collaboratively.
 
 ## What I Expect
 - Understand how agentic systems differ from traditional software
