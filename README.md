@@ -1,6 +1,6 @@
 # ASE-Portfolio-Lastname
 
-**Student:** [Your Full Name]
+**Student:** Nathan Escaño
 **Course:** CPELX230-330, Term 2 2026-2027
 **School:** National University College of Engineering, Computer Engineering
 
